@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='43.jpg'>
+    <box top='179' left='240' width='218' height='317'/>
+  </image>
+  <image file='45.jpg'>
+    <box top='115' left='59' width='95' height='147'/>
+    <box top='111' left='154' width='75' height='153'/>
+    <box top='109' left='235' width='71' height='154'/>
+    <box top='109' left='313' width='81' height='156'/>
+    <box top='109' left='397' width='89' height='154'/>
+    <box top='263' left='69' width='77' height='142'/>
+    <box top='261' left='151' width='85' height='147'/>
+    <box top='264' left='234' width='78' height='143'/>
+    <box top='263' left='318' width='79' height='149'/>
+    <box top='261' left='400' width='78' height='150'/>
+    <box top='253' left='486' width='72' height='154'/>
+    <box top='251' left='561' width='90' height='153'/>
+    <box top='402' left='73' width='81' height='142'/>
+    <box top='407' left='156' width='82' height='143'/>
+    <box top='401' left='243' width='68' height='150'/>
+    <box top='402' left='317' width='77' height='144'/>
+    <box top='401' left='400' width='87' height='147'/>
+    <box top='397' left='483' width='78' height='150'/>
+  </image>
+  <image file='59.jpg'>
+    <box top='7' left='56' width='2787' height='3585'/>
+  </image>
+  <image file='75.jpg'>
+    <box top='162' left='2' width='113' height='129'/>
+    <box top='162' left='116' width='115' height='129'/>
+    <box top='160' left='242' width='113' height='131'/>
+    <box top='160' left='364' width='105' height='133'/>
+    <box top='162' left='480' width='111' height='141'/>
+    <box top='166' left='600' width='115' height='125'/>
+    <box top='166' left='722' width='105' height='127'/>
+    <box top='166' left='844' width='99' height='135'/>
+    <box top='162' left='964' width='103' height='131'/>
+    <box top='168' left='1088' width='113' height='127'/>
+    <box top='300' left='-2' width='91' height='165'/>
+    <box top='294' left='96' width='121' height='159'/>
+    <box top='298' left='218' width='117' height='161'/>
+    <box top='304' left='340' width='121' height='155'/>
+    <box top='306' left='466' width='129' height='155'/>
+    <box top='298' left='598' width='119' height='169'/>
+    <box top='292' left='726' width='103' height='151'/>
+    <box top='288' left='838' width='107' height='147'/>
+    <box top='296' left='964' width='127' height='173'/>
+    <box top='304' left='1104' width='129' height='157'/>
+    <box top='534' left='6' width='101' height='111'/>
+    <box top='536' left='118' width='109' height='117'/>
+    <box top='544' left='214' width='127' height='119'/>
+    <box top='536' left='352' width='113' height='123'/>
+    <box top='542' left='470' width='119' height='123'/>
+    <box top='544' left='590' width='115' height='133'/>
+    <box top='536' left='722' width='117' height='127'/>
+    <box top='532' left='842' width='117' height='147'/>
+    <box top='548' left='972' width='127' height='119'/>
+    <box top='548' left='1110' width='115' height='113'/>
+    <box top='556' left='1234' width='39' height='115'/>
+  </image>
+  <image file='79.jpg'>
+    <box top='10' left='30' width='163' height='205'/>
+  </image>
+  <image file='81.jpg'>
+    <box top='142' left='56' width='147' height='199'/>
+    <box top='148' left='302' width='147' height='191'/>
+    <box top='156' left='552' width='145' height='183'/>
+  </image>
+  <image file='StoreShelf.jpg'>
+    <box top='57' left='25' width='97' height='114'/>
+    <box top='66' left='122' width='98' height='105'/>
+    <box top='59' left='232' width='90' height='99'/>
+    <box top='58' left='336' width='79' height='101'/>
+    <box top='56' left='425' width='69' height='97'/>
+    <box top='57' left='498' width='64' height='94'/>
+    <box top='60' left='563' width='59' height='83'/>
+    <box top='169' left='16' width='109' height='119'/>
+    <box top='173' left='138' width='95' height='98'/>
+    <box top='163' left='234' width='90' height='113'/>
+    <box top='149' left='327' width='85' height='114'/>
+    <box top='153' left='422' width='74' height='96'/>
+    <box top='151' left='499' width='75' height='94'/>
+    <box top='148' left='575' width='61' height='90'/>
+    <box top='292' left='33' width='104' height='104'/>
+    <box top='276' left='138' width='91' height='121'/>
+    <box top='273' left='231' width='95' height='103'/>
+    <box top='260' left='334' width='81' height='102'/>
+    <box top='248' left='424' width='73' height='104'/>
+    <box top='253' left='506' width='82' height='114'/>
+    <box top='257' left='600' width='71' height='104'/>
+    <box top='245' left='662' width='48' height='108'/>
+    <box top='249' left='712' width='69' height='110'/>
+    <box top='245' left='795' width='64' height='97'/>
+    <box top='256' left='868' width='71' height='120'/>
+    <box top='258' left='952' width='75' height='107'/>
+    <box top='257' left='1036' width='69' height='108'/>
+    <box top='257' left='1109' width='85' height='106'/>
+    <box top='256' left='1207' width='77' height='113'/>
+    <box top='154' left='1017' width='68' height='100'/>
+    <box top='155' left='1097' width='84' height='101'/>
+    <box top='153' left='1183' width='70' height='104'/>
+  </image>
+</images>
+</dataset>
