@@ -67,7 +67,7 @@ python train_obj_detector.py testNutella1
 ```
 Ideally if everything runs smoothly, you should be able to see the window showing the image detector window and the window showing images where nutella is getting detected and the counts in the commandline.
 
-[Demo video link](https://drive.google.com/open?id=0B_6-Nafd8mwNTXZiQVZhWFRCS2c)
+[Demo video link](https://drive.google.com/file/d/0B_6-Nafd8mwNTXZiQVZhWFRCS2c/view?usp=sharing&resourcekey=0-1y-ROgy1vmVEKYePH8Hg3A)
 
 
 
